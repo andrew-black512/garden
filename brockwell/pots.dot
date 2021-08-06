@@ -1,5 +1,0 @@
-digraph {
-  pot -> {round, square, seed_tray, module } 
-
-   
-}
